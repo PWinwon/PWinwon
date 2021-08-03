@@ -14,8 +14,7 @@
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a> &nbsp
 </p>
 
-<!-- <h1 align="center><b> :notebook: I will Study :notebook: </b></h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> &nbsp 
 </p> -->
