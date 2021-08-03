@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=SeungwonPark&fontSize=70)
 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-
-
-
 
 [![PWinwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=PWinwon&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
