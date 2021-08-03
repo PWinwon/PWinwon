@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?text=&fontSize=20&rotate=-30)
 
 [![PWinwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=PWinwon&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
