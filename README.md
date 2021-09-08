@@ -1,23 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=SeungwonPark&fontSize=70)
 
-
-<h1 align="center"><b> :hatching_chick: Tech Stack :hatching_chick: </b></h1>
+<h3 align="center"><b>:hatching_chick: Tech Stack :hatching_chick:</b></h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/>
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django"/>
+  <img src="https://img.shields.io/badge/-openCV-5C3EE8?style=flat&logo=openCV"/>
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> &nbsp 
-</p> -->
+<h3 align="center"><b>🌱 I’m currently learning ...</b></h3>
 
 
 
