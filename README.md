@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/>
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R"/>
