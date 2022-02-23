@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/>
 </p>
 
-<h3 align="center"><b>🌱 I’m currently learning ...</b></h3>
+<h3 align="center"><b>🌱 I’m currently learning ....</b></h3>
 
 
 
